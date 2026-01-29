@@ -44,15 +44,15 @@ A modern, responsive Tic-Tac-Toe game built with vanilla JavaScript, HTML, and C
 1. **Clone the repository**
    ```bash
    git clone https://github.com/arjunsinghgithub/tictactoe.git
-   cd tictactoe
+   cd index
    ```
 
 2. **Open in browser**
    ```bash
    # Simply open the HTML file in your browser
-   open tictactoe.html
+   open index.html
    # or
-   start tictactoe.html
+   start index.html
    # or just double-click the file
    ```
 
@@ -63,9 +63,9 @@ That's it! No build process or dependencies required.
 ```
 tictactoe-game/
 │
-├── tictactoe.html      # Main HTML structure
-├── tictactoe.css       # Styling and animations
-├── tictactoe.js        # Game logic and functionality
+├── index.html          # Main HTML structure
+├── style.css           # Styling and animations
+├── script.js           # Game logic and functionality
 └── README.md           # Documentation (this file)
 ```
 
@@ -101,7 +101,7 @@ tictactoe-game/
 
 ### Changing Colors
 
-Edit the gradient colors in `tictactoe.css`:
+Edit the gradient colors in `style.css`:
 
 ```css
 /* Main background gradient */
@@ -122,7 +122,7 @@ body {
 
 ### Adjusting Animations
 
-Modify animation durations in `tictactoe.css`:
+Modify animation durations in `style.css`:
 
 ```css
 /* Cell pop animation speed */
