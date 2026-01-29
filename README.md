@@ -43,8 +43,8 @@ A modern, responsive Tic-Tac-Toe game built with vanilla JavaScript, HTML, and C
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tictactoe-game.git
-   cd tictactoe-game
+   git clone https://github.com/arjunsinghgithub/tictactoe.git
+   cd tictactoe
    ```
 
 2. **Open in browser**
@@ -180,7 +180,7 @@ Modify animation durations in `tictactoe.css`:
 
 ## 🐛 Known Issues
 
-Currently, there are no known issues. If you find any bugs, please report them in the [Issues](https://github.com/yourusername/tictactoe-game/issues) section.
+Currently, there are no known issues. If you find any bugs, please report them in the [Issues](https://github.com/arjunsinghgithub/tictactoe/issues) section.
 
 ## 🤝 Contributing
 
@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2026 Your Name
+Copyright (c) 2026 Arjun Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -242,7 +242,7 @@ SOFTWARE.
 
 ## 👤 Author
 
-**Arjun Singh Khangar**
+**Arjun Singh**
 - GitHub: [@arjunsinghgithub](https://github.com/arjunsinghgithub)
 
 ## 🙏 Acknowledgments
