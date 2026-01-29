@@ -242,7 +242,7 @@ SOFTWARE.
 
 ## 👤 Author
 
-**Your Name**
+**Arjun Singh Khangar**
 - GitHub: [@arjunsinghgithub](https://github.com/arjunsinghgithub)
 
 ## 🙏 Acknowledgments
